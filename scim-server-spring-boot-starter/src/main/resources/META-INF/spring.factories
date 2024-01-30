@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.hotlcc.scim.server.spring.boot.config.ScimServerAutoConfig
